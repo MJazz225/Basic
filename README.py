@@ -24,4 +24,3 @@ for i in range(a,b+1):
             print()
 print("\n%d"%(count)) #bug
 print(total_sum)
- 
