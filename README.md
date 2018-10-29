@@ -1,5 +1,4 @@
 # Basic
-basic python
 
 #6組樂透好嗎
 import random
