@@ -1,6 +1,6 @@
 # Basic
 
-#6組樂透好嗎
+#6組樂透號碼
 import random
 again = 1
 while again ==1:
